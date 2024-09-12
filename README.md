@@ -69,3 +69,17 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 I'm creating a simple Laravel website with a minimalist design. It has four main sections: Home, Blog, About, and Contact.
 
 ## Home 
+
+This is the homepage. I want tell about Pahang where I study so I’ve added a picture of Teluk cempedak. 
+
+## Blog
+
+This is the blog page of a personal website. It features two blog posts written by Anis Talib. The first post is about Pahang, a state in Malaysia known for its natural beauty. The second post is about Kuantan 188, a landmark in Kuantan, the capital city of Pahang. Both posts have links to read more.
+
+## About 
+
+The page you're looking at is the "About" page. It has a picture of me and my friends.
+
+## Contact
+
+This is the contact page. It has a simple layout with a header, a main content area, and a footer. The header contains the website's navigation links, while the main content area is empty, possibly intended for contact information or a contact form. 
