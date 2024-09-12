@@ -79,8 +79,8 @@ This is the blog page of a personal website. It features two blog posts written 
 
 ## About 
 ![ABOUT](https://github.com/user-attachments/assets/f0708577-f670-4b1b-b00e-79be935e22d3)
-The page you're looking at is the "About" page. It has a picture of me and my friends.
+The page you're looking at is the "About" page. It is mostly about the me which is the owner of this website. Also it has a picture of me and my friends. 
 
 ## Contact
 ![CONTACT](https://github.com/user-attachments/assets/6c9e6fb3-6568-4278-b097-aeaa68f2084a)
-This is the contact page. It has a simple layout with a header, a main content area, and a footer. The header contains the website's navigation links, while the main content area is empty, possibly intended for contact information or a contact form. 
+This is the contact page. It has a simple layout like the others. The header contains the website's navigation links, which will go to Instagram page when you click Instgram and vice versa.
